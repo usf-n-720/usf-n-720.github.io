@@ -5,9 +5,9 @@ redcarpet:
 highlighter: pygments
 
 # Site settings
-title: "HS 614"
+title: "N 720"
 description: > # this means to ignore newlines until "email:"
-  Clinical Decision Support and Data Analytics
+  Quality and Safety Improvement with Information Technology (Informatics Component)
 
 email: andrew.nguyen@usfca.edu
 #blog logo
@@ -22,7 +22,7 @@ author_image: "/assets/images/author.png"
 
 paginate: 20	
 
-url: "http://usf-hs-614.github.io" # the base hostname & protocol for your site
+url: "http://usf-nurs-720.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
@@ -42,7 +42,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/usf-hs-614
+    url:	https://github.com/usf-nurs-720
     desc:	Course organization @ github
     share_url:
     share_title:
