@@ -19,7 +19,7 @@ This assignment is worth 10 points or 10% of your overall class grade.
 
 ### Due Date ###
 
-Friday, July 10, 11:59:59 PM
+Sunday, July 12, 11:59:59 PM
 
 ***Late assignments will not be accepted.***
 
