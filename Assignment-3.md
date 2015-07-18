@@ -54,13 +54,14 @@ such, this is an opportunity for a focused dive into a particular area of
 interest ***to you***.
 
 For example, you may choose to focus on addressing the organizational or
-cultural issues within your organization.  Or, you may focus on the knowledge
-management portion.  As we discussed in class, there are quite a few different
-areas to focus on and I would choose one that you are either uncomfortable with
-or would like to learn more about.Whatever you choose, please make it explicit
-and clear because there is a natural overlap between all aspects of the
-project.  By letting me know the specific area you're focusing on, I will be
-able to keep that context in mind as I read through your assignment.
+cultural issues within your organization.  You may focus on the knowledge
+management portion, or data capture and semantic interoperability.  As we
+discussed in class, there are quite a few different areas to focus on and I
+would choose one that you are either uncomfortable with or would like to learn
+more about.Whatever you choose, please make it explicit and clear because there
+is a natural overlap between all aspects of the project.  By letting me know
+the specific area you're focusing on, I will be able to keep that context in
+mind as I read through your assignment.
 
 Some areas to consider are:
 
@@ -70,9 +71,10 @@ Some areas to consider are:
 - Knowledge management
 - Data extraction and interoperability
 
-**As soon as you feel like you have a topic of interest, please check in and
-discuss with me via email or Zoom to make sure we're all on the same page and
-that your topic is not too large nor too small**
+**As soon as you feel like you have a topic of interest and have discussed it
+with your team in the context of your CDS tool, please create an outline and
+then check in and discuss with me via email or Zoom to make sure we're all on
+the same page and that your topic is not too large nor too small**
 
 As with any implementation project, this is your one opportunity to put the
 framework and structure in place to guide the implementation.  Anything left
@@ -107,6 +109,18 @@ legal/regulatory.  Some questions you would want to address (and justify) are:
 7. What is the process for training users?
 8. Will users be able to use this from personal devices?  Mobile phones,
    tablets, laptops?
+
+That said, you should address the following points **at a minimum**.
+
+1. Describe the clinical or business need underlying your CDS tool
+2. Describe your CDS tool and how it will help improve the decision-making process
+3. Review the 5 components of CDS (page 39 of the slides) and discuss each in
+   the context of your project
+4. Focus on your implementation topic of interest and work through it.  Your
+   goal should be to effectively and adequately address that particular issue.  In
+   other words, as the head informatcist on your implementation team, I should
+   feel comfortable starting on the project and believe that we have an successful
+   plan in place
 
 The assigned reading and optional readings should give you a general starting
 point.  There are additional chapters of Greenes that I can make available if
