@@ -18,21 +18,21 @@ Friday, August 14, 11:59:59 PM
 
 ### Reading ###
 
-[Greenes, Chapter 25. A CDS Implementation Guide: Practical Considerations](/pdfs/Chapter.pdf)
+[Greenes, Chapter 25. A CDS Implementation Guide: Practical Considerations](/pdfs/greenes/Chapter25.pdf)
 
-[Greenes, Chapter 3.  Features of Clinical Decision Support](/pdfs/Chapter3.pdf)
+[Greenes, Chapter 3.  Features of Clinical Decision Support](/pdfs/greenes/Chapter3.pdf)
 
-[Greenes, Chapter 22. Cognitive Considerations for HIT](/pdfs/Chapter22.pdf)
+[Greenes, Chapter 22. Cognitive Considerations for HIT](/pdfs/greenes/Chapter22.pdf)
 
-[Greenes, Chapter 23. Organizational and Cultural Change](/pdfs/Chapter23.pdf)
+[Greenes, Chapter 23. Organizational and Cultural Change](/pdfs/greenes/Chapter23.pdf)
 
-[Greenes, Chapter 24. Managing the Investment in CDS](/pdfs/Chapter24.pdf)
+[Greenes, Chapter 24. Managing the Investment in CDS](/pdfs/greenes/Chapter24.pdf)
 
-[** OPTIONAL ** Greenes, Chapter 30. Looking Ahead: The Road to Broad Adoption](/pdfs/Chapter30.pdf)
+[** OPTIONAL ** Greenes, Chapter 30. Looking Ahead: The Road to Broad Adoption](/pdfs/greenes/Chapter30.pdf)
 
-[** OPTIONAL ** Greenes, Chapter 10. Human-Intensive Techniques](/pdfs/Chapter10.pdf)
+[** OPTIONAL ** Greenes, Chapter 10. Human-Intensive Techniques](/pdfs/greenes/Chapter10.pdf)
 
-[** OPTIONAL ** Greenes, Chapter 11. Generation of Knowledge for CDS](/pdfs/Chapter11.pdf)
+[** OPTIONAL ** Greenes, Chapter 11. Generation of Knowledge for CDS](/pdfs/greenes/Chapter11.pdf)
 
 ### Assignment ###
 
