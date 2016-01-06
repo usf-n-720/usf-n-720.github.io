@@ -44,7 +44,7 @@ This assignment is worth 10 points or 10% of your overall class grade.
 
 ### Due Date ###
 
-Friday, July 17, 11:59:59 PM
+Friday, April 10, 11:59:59 PM
 
 ***Late assignments will not be accepted.***
 
@@ -82,7 +82,7 @@ within the patient's medical history may lead the CDS tool to determine that a
 particular rhythm is a false positive, thus ignoring it.
 
 - Specific cardiac medications (e.g. Digoxin)
-- Specific cardiac diagnoses (e.g. atrial fibrillation)
+- Specific cardiac diagnoses (e.g. congestive heart failure)
 - Arrhythmias (e.g. V-Fib, SVT, etc.)
 
 Third, reconvene as a team and compare and discuss your various lists:

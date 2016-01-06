@@ -12,7 +12,7 @@ This assignment is worth 30 points or 30% of your overall class grade.
 
 ### Due Date ###
 
-Friday, August 14, 11:59:59 PM
+Thursday, May 12, 11:59:59 PM
 
 ***Late assignments will not be accepted.***
 
