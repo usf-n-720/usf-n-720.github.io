@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment 1 - Due 07/10
+title: Assignment 1 - Due 2016-04-03
 permalink: /assignment-1/
 ---
 
